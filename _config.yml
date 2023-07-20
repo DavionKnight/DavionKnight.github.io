@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 登临瀚海-嵌入式
+subtitle: '冠军临瀚海，长平翼大风。'
 description: ''
 keywords:
 author: John Doe
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-fluid 
+#theme: hexo-theme-ayer
+theme: hexo-theme-matery
 languages: zh-CN
 #remote_theme: pages-themes/architect@v0.2.0
 #plugins:
